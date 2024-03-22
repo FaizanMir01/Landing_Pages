@@ -1,3 +1,3 @@
 # Landing_Pages
-# Website_Using_React
-<img src="/Landing_Page_using_React/Screenshot 2024-01-16 165043.png" alt="resultPage"/>
+## 1. Landing Page using result demo
+<img src="result.png" alt="resultPage"/>
