@@ -1,0 +1,7 @@
+.page1 {
+  width: 100%;
+  height: calc(100vh - 119px);
+  display: flex;
+  justify-content: space-between;
+  padding: 0rem 12rem;
+}

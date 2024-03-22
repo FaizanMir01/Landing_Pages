@@ -1,0 +1,17 @@
+button {
+    padding: 0.8rem 2rem;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+  }
+  .contact {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+  }
+  .jion-hydra {
+    background: linear-gradient(45deg, #9486cf, 70%, #afafaf);
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+  }
+  

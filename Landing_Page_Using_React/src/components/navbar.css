@@ -1,0 +1,28 @@
+.logo {
+    width: 150px;
+    display: flex;
+    align-items: center;
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .nav-links {
+    display: flex;
+    gap: 3rem;
+  }
+  .nav-links a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 1rem;
+  }
+  .btns {
+    display: flex;
+    gap: 2rem;
+  }
+  .nav-links a:hover {
+    color: #c0b7e8;
+  }
+  

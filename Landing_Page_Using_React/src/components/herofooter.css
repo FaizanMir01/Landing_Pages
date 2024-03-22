@@ -1,0 +1,8 @@
+.container {
+  background: linear-gradient(90deg, #0e0c13, 30%, #afafaf51, #0e0c13);
+  border-radius: 100px;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-around;
+  margin: 0rem auto;
+}
