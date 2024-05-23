@@ -8,6 +8,6 @@
 ## 4. Helio Website Page(dark and ligt theme)
 <img src="dark theme.png" alt="resultPage"/>
 <img src="light.png" alt="resultPage"/>
-## 5. Spider Man Themed Page
+## 5. Portofolio Landing Page
 <img src="portfolio.png" alt="resultPage"/>
 
