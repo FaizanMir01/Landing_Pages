@@ -10,7 +10,7 @@
 <img src="light.png" alt="resultPage"/>
 ## 5. Portofolio Landing Page
 <img src="portfolio.png" alt="resultPage"/>
-## 6. Portofolio Landing Page
+## 6. Rejouice Landing Page
 <img src="rejouiceoutput.png" alt="resultPage"/>
 <img src="rejouieoutput2.png" alt="resultPage"/>
 
