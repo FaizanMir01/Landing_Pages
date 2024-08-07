@@ -1,4 +1,5 @@
 # Landing_Pages
+
 ## 1. Landing Page using React demo
 <img src="result.png" alt="resultPage"/>
 # 2. Landing page of coffee website
@@ -13,4 +14,6 @@
 ## 6. Rejouice Landing Page
 <img src="rejouiceoutput.png" alt="resultPage"/>
 <img src="rejouieoutput2.png" alt="resultPage"/>
+## 7. LandingPages
+<img src="landingPage01Result.png" alt="resultPage"/>
 
